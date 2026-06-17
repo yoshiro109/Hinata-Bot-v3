@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="Hinata Bot Banner" width="100%">
+  <img src="" alt="tessia Bot Banner" width="100%">
 </p>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="28px" alt="icon">
-  Hinata Bot - Messenger Chat Messenger
+  <img src="" width="28px" alt="icon">
+  Tessia Bot - Messenger Chat Messenger
 </h1>
 
 <p align="center">
